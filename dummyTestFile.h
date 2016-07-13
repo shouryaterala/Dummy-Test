@@ -19,7 +19,7 @@ int main()
 	cout << " 4. The result of your choice will be shown. \n";
 	cout << " Later we will add things to this program such as score and other things. \n";
 
-	cout << "\n\n You are in G hood and there is a dragon sleeping next to you.\n";
+	cout << "\n\n You are in Fletcher Street and there is a dragon sleeping next to you.\n";
 	cout << " What will you choose to do?\n";
 
 	cout << " \n Here are your choices:\n";
